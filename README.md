@@ -57,7 +57,7 @@
 
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/puerant/puerant/assets/images/zhenzhuo.png" />
 
-- [上海臻卓医疗技术有限公司](https://lusun.com/) &emsp; 📌 2024-03-04 —— 2024-08-28
+- [上海臻卓医疗技术有限公司](https://lusun.com/) &emsp; 📌 2024-03-04 —— 至今
 
   - 工作岗位：软件研发工程师
   - 工作内容：软件开发与维护
